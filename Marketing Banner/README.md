@@ -4,7 +4,7 @@
 
 A marketing banner is a strip of colour and text at the top of your video. 
 
-IMAGE HERE
+![alt-text](https://i.imgur.com/VcCiv6G.png)
 
 ## Why use it?
 
