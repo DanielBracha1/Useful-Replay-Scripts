@@ -1,4 +1,16 @@
-# How to Use
+# Marketing Banner
+
+## What is it? 
+
+A marketing banner is a strip of colour and text at the top of your video. 
+
+IMAGE HERE
+
+## Why use it?
+
+A marketing banner is great way to present a challenge or message to the user, which doesn't interrupt with your gameplay and stands out! For example, you could let the user know that "Only 1% of people can complete this game" as a way to peak their interest. 
+
+## How to Use
 
 1. Download and then drag the package into your project
 
