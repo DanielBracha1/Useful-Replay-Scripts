@@ -18,7 +18,7 @@ A marketing banner is great way to present a challenge or message to the user, w
 
 3. Expand the 'Fonts' array in the inspector, increase the number to how many fonts you want to include. Drag the tff files into the elements created after setting the array size.
 
-![alt text](https://i.imgur.com/0b15YOK.jpg)
+![alt text](https://i.imgur.com/xsCgG1B.jpeg)
 
 4. After you add your fonts open up the 'ReplayTopBanner.cs' script (will be in the same folder as the 'MarketingUI' prefab). Inside the 'FontNames' enum add the names of the font files you added to the array. 
 
