@@ -2,7 +2,7 @@
 
 ## What is it? 
 
-A sprite of a hand that will follow the mouse input entered during your video. 
+A hand (with multiple different sprites to choose from) that will follow the mouse input entered during your video. 
 
 ![alt-text](https://media.giphy.com/media/B3AdV4Pz2N8UdfirQk/giphy.gif)
     
@@ -12,7 +12,7 @@ When uploading your recording to playground it will be hard to see where inputs 
 
 ## How to Use
 
-1. Check what Projection type your scene's camera is (Orthographic or Perspective), and download the package version that matches it. 
+1. Check what your scene camera's Projection type is (Orthographic or Perspective), and download the package version that matches it. 
 
 2. Drag the package into your project (you do not need to import the scenes folder, as this just contains an example)
 
