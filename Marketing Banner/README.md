@@ -22,6 +22,6 @@ A marketing banner is great way to present a challenge or message to the user, w
 
 4. After you add your fonts open up the 'ReplayTopBanner.cs' script (will be in the same folder as the 'MarketingUI' prefab). Inside the 'FontNames' enum add the names of the font files you added to the array. 
 
-    Be sure to spell them correctly, and use "_" instead of spaces.
-
+    NOTE: Make sure to spell the font's name the same as it appears in Unity, BUT use _ instead of spaces and remove any other special characters (don't remove underscores)
+    E.g.: Cinzel-Bold -> CinzelBold   xylitol front -> xylitol_front
 ![alt text](https://i.imgur.com/7bhKFpi.jpg)
