@@ -4,7 +4,7 @@
 
 A sprite of a hand that will follow the mouse input entered during your video. 
 
-![alt-text](https://i.imgur.com/2T9ubgf.mp4)
+![alt-text](https://media.giphy.com/media/B3AdV4Pz2N8UdfirQk/giphy.gif)
     
 ## Why use it?
 
