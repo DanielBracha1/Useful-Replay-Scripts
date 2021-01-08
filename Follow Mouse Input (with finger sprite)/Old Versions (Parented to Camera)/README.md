@@ -1,5 +1,3 @@
-# Marketing Banner
-
 ## What is it? 
 
 A hand (with multiple different sprites to choose from) that will follow the mouse input entered during your video. 
