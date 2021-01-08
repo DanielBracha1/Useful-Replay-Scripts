@@ -2,19 +2,19 @@
 
 ## What is it? 
 
-A hand (with multiple different sprites to choose from) that will follow the mouse input entered during your video. 
+A hand (with multiple different sprites to choose from) that will follow your mouse input or a GameObject's movements during your video.
 
 ![alt-text](https://media.giphy.com/media/1XOzf46BVNCtBZpOJ2/giphy.gif)
     
 ## Why use it?
 
-When uploading your recording to playground it will be hard to see where inputs are being entered without a cursor visable. Using a sprite that follows where the inputs are placed helps the viewer understand how the game is being controlled.
+When uploading your recording to playground it will be hard to see where inputs are being entered without a cursor visible. Using a sprite that follows where the inputs are placed helps the viewer understand how the game is being controlled.
 
 ## How to Use
 
 1. Drag the package into your project (you do not need to import the scenes folder, as this just contains examples)
 
-2. Drag the 'LunaFingerImage' prefabs onto your scene's canvas as a child object, make sure it is the last object in the canvas hierachy to ensure it appears over other UI elements! 
+2. Drag the 'LunaFingerImage' prefabs onto your scene's canvas as a child object, make sure it is the last object in the canvas hierarchy to ensure it appears over other UI elements! 
 
 <img src="https://i.imgur.com/NDtljq7.jpg" width="500">
 
@@ -30,7 +30,7 @@ From here you're all good to go!
 
 ## Following Objects & Other Options
 
-In some occasions your mouse input is not alligned with the GameObject being moved, making the position of the finger look strange. 
+In some occasions your mouse input is not aligned with the GameObject being moved, making the position of the finger look strange. 
 
 To follow a GameObject instead, whilst holding your mouse down also hold down the spacebar. You will notice that the finger is now following your object instead! (Example of this behaviour below)
 
