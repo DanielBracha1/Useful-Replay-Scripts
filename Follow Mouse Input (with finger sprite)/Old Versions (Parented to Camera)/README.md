@@ -1,3 +1,7 @@
+## Warning
+These are older versions of the Finger Following package, if you do decide to use them you may encounter scaling problems with the finger asset. 
+We recommend you use the new version (Luna Finger Follow Mouse Input Canvas) which you can find [here](https://github.com/LunaCommunity/Useful-Replay-Scripts/tree/main/Follow%20Mouse%20Input%20(with%20finger%20sprite))
+
 ## What is it? 
 
 A hand (with multiple different sprites to choose from) that will follow the mouse input entered during your video. 
