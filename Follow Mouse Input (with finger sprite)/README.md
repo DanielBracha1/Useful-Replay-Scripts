@@ -22,7 +22,7 @@ When uploading your recording to playground it will be hard to see where inputs 
 
 (If you are planning on using the added functionality of having the finger follow an object in the scene, drag whatever GameObject you wish the finger to follow into the 'To Follow' field)
 
-<img src="https://i.imgur.com/JjjhdHL.jpg" width="500">
+<img src="https://i.imgur.com/PQjMjsk.jpg" width="500">
 
 From here you're all good to go! 
 
@@ -39,6 +39,8 @@ To follow a GameObject instead, whilst holding your mouse down also hold down th
 If you encounter errors whilst holding space this likely means you have not added the GameObject you wish the finger to follow to the "To Follow" field in your scene's LunaFingerFollowMouseInput prefab. 
 
 **Options:**
+
+Show Hand: If unticked the Hand will no longer appear on screen
 
 Follow Speed: Affects how fast the hand moves towards the mouse location
 
