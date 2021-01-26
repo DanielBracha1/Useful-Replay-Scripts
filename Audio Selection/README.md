@@ -20,20 +20,20 @@ You will see an error at this stage - don't worry, this will disappear after ste
 
 3. Add all your music files to the 'ReplayAudioFiles' folder, found in Resources. 
 
-![alt-text](https://i.imgur.com/WK4IcoB)
+![alt-text](https://i.imgur.com/WK4IcoB.png)
 
 4. Make sure that the folder path set in the AudioManager Prefab uses the string "ReplayAudioFiles".
 
-![alt-text](https://i.imgur.com/xPGXcjq)
+![alt-text](https://i.imgur.com/xPGXcjq.png)
 
 5. When read, in the Tools menu, run the GenerateMusicEnum item. Tools > GenerateMusicEnum
 
-![alt-text](https://i.imgur.com/fJRk3A1)
+![alt-text](https://i.imgur.com/fJRk3A1.png)
 
 6. An enum will be created with all of the audio files names added, in the ReplayAudio folder. It will be named `AudioEnum.cs`. 
 
 7. In the AudioManager prefab you will now see the names of the music files, in the Replay Audio enum. You can use this to select the music. 
 
-![alt-text](https://i.imgur.com/Pgr0CvG)
+![alt-text](https://i.imgur.com/Pgr0CvG.png)
 
 8. The Audio Start time integer allows you to set the delay. If set to 0, the audio will start as the scene starts. 
