@@ -16,7 +16,7 @@ You may want to have the flexibility to choose different music for your videos, 
 
 2. Delete the file named `AudioEnum.cs` in the ReplayAudio folder.
 
-You will see an error at this stage - don't worry, this will disappear after step 6. 
+ You will see an error at this stage - don't worry, this will disappear after step 6. 
 
 3. Drag the 'AudioManager' into your scene. 
 
@@ -31,6 +31,8 @@ You will see an error at this stage - don't worry, this will disappear after ste
 6. When read, in the Tools menu, run the GenerateMusicEnum item. Tools > GenerateMusicEnum
 
 ![alt-text](https://i.imgur.com/fJRk3A1.png)
+
+ Please note, that changing the order of the audio files, or removing them after generating the enum, will lead to incorrect behaviour. 
 
 7. An enum will be created with all of the audio files names added, in the ReplayAudio folder. It will be named `AudioEnum.cs`. 
 
