@@ -28,7 +28,7 @@ You may want to have the flexibility to choose different music for your videos, 
 
 ![alt-text](https://i.imgur.com/xPGXcjq.png)
 
-6. When read, in the Tools menu, run the GenerateMusicEnum item. Tools > GenerateMusicEnum
+6. When ready, in the Tools menu, run the GenerateMusicEnum item. Tools > GenerateMusicEnum
 
 ![alt-text](https://i.imgur.com/fJRk3A1.png)
 
