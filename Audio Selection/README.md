@@ -41,3 +41,7 @@ You may want to have the flexibility to choose different music for your videos, 
 ![alt-text](https://i.imgur.com/Pgr0CvG.png)
 
 9. The Audio Start time integer allows you to set the delay. If set to 0, the audio will start as the scene starts. 
+
+10. In order to change music on Playground, add both "AudioManager.replayAudio" and "AudioManager.audioStartTime" to "Field Sets" on Replay.
+
+![alt-text](https://i.imgur.com/GlXoM1I.png)
